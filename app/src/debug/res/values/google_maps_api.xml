@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=43:19:53:6C:90:97:DE:AE:F3:52:72:AA:21:41:0C:74:50:ED:41:2F%3Bcom.example.pearlleff.mapapp4
+
+    You can also add your credentials to an existing key, using this line:
+    43:19:53:6C:90:97:DE:AE:F3:52:72:AA:21:41:0C:74:50:ED:41:2F;com.example.pearlleff.mapapp4
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBmzSeCBLSlZxxzUzr2kKOyndmK4sNRGK8</string>
+</resources>
