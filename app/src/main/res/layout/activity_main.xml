@@ -57,7 +57,6 @@
             android:layout_width="110dp"
             android:layout_height="85dp"
             android:id="@+id/imageButton"
-            android:background="@drawable/globe"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true" />
 
